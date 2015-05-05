@@ -1,5 +1,6 @@
 body {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-size: 14px;
 }
 
 h1,
@@ -22,21 +23,48 @@ h1 {
 	font-weight: 900;
 }
 
-h2 {
-	font-size: 20px;
-	font-weight: 600;
+h2, h3, h4 {
 	color: #21759b;
 }
 
-p {
+h2 {
+	font-size: 20px;
+	font-weight: 600;
+}
+
+h3 {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+h4 {
 	font-size: 14px;
-	margin: 0em 0 2em;
+	font-weight: 400;
+}
+
+p, article ul, article ol {
+	margin-bottom: 2em;
 	line-height: 1.5em;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
+
+article ol, article ul {
+	list-style-type: disc;
+	list-style-position: inside;
+	margin-left: 2em;
 }
 
 footer {
 	border-top: 1px solid #ededed;
-	padding: 1em 0;
+	padding-top: 1em;
+	margin-top: 1em;
 
 	font-size: 12px;
 }
@@ -47,6 +75,23 @@ footer a {
 
 footer a:hover {
 	color: #2b7196;
+}
+
+table {
+	width: 100%;
+	margin-bottom: 2em;
+}
+
+table thead th {
+	font-weight: bold;
+	text-align: left;
+	padding: 0 1em 0.5em 0;
+}
+
+table tbody td {
+	border-top: 1px solid #ededed;
+	border-bottom: 1px solid #ededed;
+	padding: 1em 1em 1em 0;
 }
 
 .container {
@@ -80,14 +125,20 @@ footer a:hover {
 	font-weight: 500;
 }
 
-@media (min-width: 990px) {
+@media (min-width: 900px) {
 	body {
 		background-color: #ededed;
 	}
 	.container {
-		width: 900px;
-		margin: 3em auto;
+		width: 800px;
+		margin: 3.5em auto;
 		padding: 3em;
 		box-shadow: 0px 0px 10px #bebebe;
+	}
+}
+
+@media (min-width: 1150px) {
+	.container {
+		width: 990px;
 	}
 }
