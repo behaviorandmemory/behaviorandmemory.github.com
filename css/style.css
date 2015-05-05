@@ -120,9 +120,14 @@ table tbody td {
 	color: #333333;
 }
 
-.menu ul li a:hover {
+.menu ul li:not(.active) a:hover {
 	color: rgb(100, 135, 100);
 	font-weight: 500;
+}
+
+.menu ul li.active {
+	color: rgb(100, 135, 100);
+	font-weight: bold;
 }
 
 @media (min-width: 900px) {
