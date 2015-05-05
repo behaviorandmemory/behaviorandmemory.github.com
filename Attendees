@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>Evento Neuro</title>
+	<meta content="Evento da Neuro que a Josi pediu minha ajuda" />
+
+	<link href="css/reset.css" rel="stylesheet" />
+
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext" type="text/css" media="all" />
+
+	<link href="css/style.css" rel="stylesheet" />
+
+</head>
+
+<body>
+	<div class="container">
+		<header>
+			<div class="title">
+				<h1>
+					Symposium Neural mechanisms of regulation of behavior and memory:
+					recent advances and future perspectives
+				</h1>
+				<p>Santo André, 04 a 07 de julho</p>
+			</div>
+			<nav class="menu">
+				<ul>
+					<li><a href="#">Home</a>
+					</li>
+					<li><a href="#">Attendees</a>
+					</li>
+					<li><a href="#">Location</a>
+					</li>
+					<li><a href="#">Organizers</a>
+					</li>
+					<li><a href="#">Previous Meetings</a>
+					</li>
+					<li><a href="#">Program</a>
+					</li>
+					<li><a href="#">Scholarships</a>
+					</li>
+					<li><a href="#">Sponsors</a>
+					</li>
+				</ul>
+			</nav>
+		</header>
+
+		<article>
+			<h2>Welcome</h2>
+			<p>Our second “Advanced Studies” meeting in neurosciences brings together international leaders in the field of neurosciences and young scientists to foment a strong scientific education to the next generation of scientists. Our goal is to put students from different fields and different geographic areas from Brazil (and Latin America) in close contact with international leaders to discuss neuroscience and open the opportunity for future collaborative studies and internships.</p>
+
+			<p>This year’s meeting will feature plenary talks, students presentations, round tables of discussion between students and invited investigators, in addition to maximize informal discussions between the participants. We will also have the participation of an artist to, literally, illustrate and discuss the importance of creativity to innovate in arts, and science.</p>
+			<p>For more details, explore the website or contact us.</p>
+			<p>We look forward to see you in Porto Alegre.</p>
+		</article>
+
+		<footer>
+			<a href="http://www.ufabc.edu.br" title="UFABC">Universidade Federal do ABC</a>
+		</footer>
+	</div>
+</body>
+
+</html>
