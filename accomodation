@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<style>
+	h5 { color: #FF0000;	}
+	</style>
+	<title>Accomodation - Behavior and Memory Symposium</title>
+
+	<meta name="description" content="Symposium: Neural mechanisms of regulation of behavior and memory: recent advances and future perspectives">
+	<meta name="keywords" content="neuro,neurociencia,simpósio,IBRO,memoria,emocional,neural,mechanisms,regulation,behavior,memory">
+	<meta name="author" content="Joselisa Paiva">
+
+	<link href="css/reset.css" rel="stylesheet" />
+
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext" type="text/css" media="all" />
+
+	<link href="css/style.css" rel="stylesheet" />
+
+</head>
+
+<body>
+	<div class="container">
+		<header>
+			<div class="title">
+				<h1>
+					<img src="img/logotipocompleto.jpg" alt="Logotipo" />
+				</h1>
+				
+
+			</div>
+			<nav class="menu">
+				<ul>
+					<li><a href="index.html">Home</a>
+					</li>
+					<li><a href="speakers.html">Speakers</a>
+					</li>
+					<li><a href="registration.html">Registration</a>
+					</li>
+					<li class="active"><a href="data-blitz.html">Data Blitz</a>
+					</li>
+					<li><a href="location.html">Location</a>
+					</li>
+					<li><a href="organizers.html">Organizers</a>
+					</li>
+					<li><a href="program.html">Program</a>
+					</li>
+					<li><a href="sponsors.html">Sponsors</a>
+					</li>
+				</ul>
+			</nav>
+		</header>
+
+		<article>
+			<h2>Hotels</h2>
+				
+			<p>The data blitz session will be an excellent opportunity for researchers or students (at any level) to present new findings and get feedback from the audience and the invited speakers.</p>
+			<p>Each data blitz presenter will have 5 minutes to present at maximum 5 slides about their research, and there will be 5 minutes time at the end of each presentation for questions from the audience.</p>
+			<p>To be considered to present a data blitz, you should be registered to the Symposium and submit a 300-word abstract describing your research and main findings to <em>behaviorandmemory@gmail.com</em>.
+		
+			The abstracts should be written in English and should also include the following information:
+			<ul>
+				<li>Presenter's name, title, and affiliation;</li>
+				<li>Coauthors name and affiliation;</li>
+				<li>Presenter's contact</li>
+			</ul>
+			<p>All presentations must be in English.</p>
+			
+		</article>
+
+		<footer>
+			<a href="http://neuro.ufabc.edu.br/?lang=en" title="UFABC">Neuroscience - Universidade Federal do ABC </a>
+		</footer>
+	</div>
+</body>
